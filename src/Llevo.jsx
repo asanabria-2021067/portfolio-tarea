@@ -3,7 +3,7 @@ import React from 'react';
 export const Llevo = () => {
   return (
     <div className="container">
-      <h3 className='ms-5 mt-5'>Lo que me llevo de este Primer Ciclo</h3>
+      <h3 className='ms-5 mt-4' style={{ color: 'black', fontSize: "50px", fontWeight: "bold", textAlign: "center" }}>Lo que me llevo de este Primer Ciclo</h3>
       <div className="llevo-content">
         <ul>
           <li>Relaciones significativas con compañeros de clase y profesores, que han enriquecido mi experiencia educativa.</li>
