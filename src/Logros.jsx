@@ -9,9 +9,10 @@ export const Logros = () => {
       <div className="logros-container">
         <div className="logro">
           <h4>SEASOS</h4>
-          <p>Logre realizar un mejor proyecto usando React y Python.</p>
+          <p>Logre realizar un proyecto con Python, React, Mongo y Flask.</p>
+          <p className='mt-1'>El cual consiste en la consciencia marina</p>
           <a href="https://seasos-ciencias.firebaseapp.com" target='_blank'>
-    <img src={img} alt="Descripción de la imagen" style={{width: "400px", height: "auto"}}/>
+    <img src={img} alt="Descripción de la imagen" style={{width: "160px", height: "auto"}}/>
   </a>
         </div>
         <div className="logro">
