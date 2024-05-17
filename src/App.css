@@ -81,3 +81,59 @@ footer {
     width: 500px !important;
   }
 }
+
+
+.logros-section {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.logros-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.logro {
+  background-color: #ffffff;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  flex: 1;
+  min-width: 250px;
+}
+
+.logro h3 {
+  margin-top: 0;
+}
+
+.logro p {
+  margin-bottom: 0;
+}
+
+.llevo-section {
+  background-color: #f5f5f5;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.llevo-content {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.llevo-content h2 {
+  text-align: center;
+}
+
+.llevo-content ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.llevo-content li {
+  margin-bottom: 10px;
+}

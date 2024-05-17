@@ -6,6 +6,10 @@ import { AprendizajesCompu } from './AprendizajesCompu';
 import { AprendizajesTodo } from './AprendizajesTodo';
 import { Reflexion } from './Reflexion';
 import { Comentarios } from './Comentarios';
+import { Concepcion } from './Concepcion';
+import { Logros } from './Logros';
+import { Llevo } from './Llevo';
+import { Reflexion2 } from './Reflexion2';
 
 function App() {
   return (
@@ -49,6 +53,18 @@ function App() {
           </section>
           <section id="comentarios">
             <Comentarios/>
+          </section>
+          <section id="concepcion">
+            <Concepcion/>
+          </section>
+          <section id="logros">
+            <Logros/>
+          </section>
+          <section id="llevas">
+            <Llevo/>
+          </section>
+          <section id="reflexion2">
+            <Reflexion2/>
           </section>
         </main>
       </div>
