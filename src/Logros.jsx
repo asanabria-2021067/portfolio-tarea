@@ -11,7 +11,7 @@ export const Logros = () => {
           <h4>SEASOS</h4>
           <p>Logre realizar un mejor proyecto usando React y Python.</p>
           <a href="https://seasos-ciencias.firebaseapp.com" target='_blank'>
-    <img src={img} alt="Descripción de la imagen" />
+    <img src={img} alt="Descripción de la imagen" style={{width: "400px", height: "auto"}}/>
   </a>
         </div>
         <div className="logro">
