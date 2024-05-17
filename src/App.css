@@ -109,6 +109,12 @@ footer {
   margin-top: 0;
 }
 
+.logro h4 {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 .logro p {
   margin-bottom: 0;
 }
