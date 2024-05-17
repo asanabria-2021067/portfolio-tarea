@@ -10,7 +10,7 @@ export const Logros = () => {
         <div className="logro">
           <h4>SEASOS</h4>
           <p>Logre realizar un proyecto con Python, React, Mongo y Flask.</p>
-          <p className='mt-1'>El cual consiste en la consciencia marina</p>
+          <p className='mt-1 mb-2'>El cual consiste en la consciencia marina</p>
           <a href="https://seasos-ciencias.firebaseapp.com" target='_blank'>
     <img src={img} alt="Descripción de la imagen" style={{width: "100%", height: "auto"}}/>
   </a>
@@ -18,7 +18,7 @@ export const Logros = () => {
         <div className="logro">
           <h4>Implementaciones de inteligencia artificial en proyectos</h4>
           <p>OpenAi usando pandas y además para realizar busquedas al momento en SEASOS</p>
-          <pre className='ms-5 text-center' style={{ width: "100%" }}>
+          <pre className='ms-5 text-center' style={{ width: "80%" }}>
                 <code >
                   import openai<br></br>
                   import pandas as pd<br></br>
